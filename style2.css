@@ -1,0 +1,55 @@
+#log_out {
+    float: right;
+    font-size: 20px;
+    margin-top: 20px;
+}
+body {
+    background: linear-gradient( to top right , green , blue);
+}
+#logo {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    margin: 0;
+}
+#kwitter{
+    font-family: 'Crimson Pro', serif;
+    font-size: 48px;
+    padding: 0;
+    margin-bottom: 0;
+    margin: 0;
+}
+.main {
+    background-color: white;
+    margin-top: 100px;
+    height: 80%;
+    width: 50%;
+    border-radius: 20px;
+}
+hr{
+    padding: 0;
+    margin: 0;
+    width: 50%;
+    height: 2px;
+    background-color: black;
+}
+#room_name{
+    width: 80%;
+    background-color: lightgray;
+    margin-top: 10px;
+}
+label{
+    margin-top: 20px;
+}
+#add_room{
+    margin-top: 20px;
+}
+#output{
+    background-color: lightblue;
+    width: 80%;
+    border-radius: 15px;
+    padding: 10px;
+}
+#trending{
+    margin-top: 40px;
+}
